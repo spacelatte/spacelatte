@@ -10,6 +10,7 @@
 - BSc. Software Engineering
 - He/Him
 
+**Please do not tap glass, engineers get distracted easily...**
 
 <!--
 **pvtmert/pvtmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
