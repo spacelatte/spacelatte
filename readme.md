@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-`[static]` This is Mert, SRE at [@iyzico](https://iyzico.com) `[static]`
-- Maintains production, develops automation and tinkers with microcontrollers.
+![Stats](https://github-readme-stats.vercel.app/api?username=pvtmert&show_icons=true&hide_border=true)
+
+### What do I do?
+
+- Maintaining production, developing automation and tinkering with microcontrollers.
 - Proficient in; Bash, Python, C and Make.
-- Gets stuff done in JS (Node and Browser), Java, Kotlin (Android)
-- Also manages K8s, Docker, Splunk and many more...
-- Likes to learn internals, caveats, software design and architecture.
-- Fast learner, slow reader :)
+- Getting stuff done in JS (Node and Browser), Java, Kotlin (Android)
+- Also managing K8s, Docker, Splunk and many more...
+- I like to learn internals, caveats, software design and architecture.
+- Reading slowly but learning fast :)
 - BSc. Software Engineering
-- He/Him
+- Human being.
 
 **Please do not tap glass, engineers get distracted easily...**
 
