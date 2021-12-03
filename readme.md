@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pvtmert&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=spacelatte&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spacelatte&hide_border=true&layout=compact&langs_count=8&theme=dark)
 
 ### What do I do?
 
@@ -13,7 +14,6 @@
 - BSc. Software Engineering
 - Human being.
 
-**Please do not tap glass, engineers get distracted easily...**
 
 <!--
 **pvtmert/pvtmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
