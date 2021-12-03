@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=spacelatte&show_icons=true&hide_border=true&count_private=true&theme=dark)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spacelatte&hide_border=true&layout=compact&langs_count=8&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=spacelatte&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark&line_height=24)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spacelatte&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&line_height=24)
 
 ### What do I do?
 
