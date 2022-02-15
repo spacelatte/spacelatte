@@ -3,29 +3,21 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=spacelatte&show_icons=true&hide_border=true&count_private=true&hide_rank=true&theme=dark&line_height=24)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spacelatte&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark&line_height=24)
 
-### What do I do?
+- 🔭 I’m currently working on _distributed systems in production_.
+- 🌱 I’m currently learning _stocks & trading_.
+- 👯 I’m looking to collaborate on _open-source IoT projects_.
+- 🤔 I’m looking for help with _wide-area-mesh-networks_.
+- 💬 Ask me about _DevOps/infrastructure and computer networks_.
+- 📫 How to reach me: _mert@akeng.in_
+- 😄 Pronouns: _He/Him_
+- ⚡ Fun fact: _Aviation enthusiast_.
 
-- Maintaining production, developing automation and tinkering with microcontrollers.
-- Proficient in; Bash, Python, C and Make.
-- Getting stuff done in JS (Node and Browser), Java, Kotlin (Android)
-- Also managing K8s, Docker, Splunk and many more...
-- I like to learn internals, caveats, software design and architecture.
-- Reading slowly but learning fast :)
-- BSc. Software Engineering
-- Human being.
+## History
 
-
-<!--
-**pvtmert/pvtmert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+flowchart BT
+  amzn(Amazon)   -- 2022-.... --> today((Today))
+  fc(FinCompare) -- 2020-2022  --> amzn(Amazon)
+  iyz(iyzico)    -- 2018-2020  --> fc(FinCompare)
+  iven(IVEN)     -- 2016-2018  --> iyz(iyzico)  
+```
