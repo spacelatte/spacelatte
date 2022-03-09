@@ -15,9 +15,10 @@
 ## History
 
 ```mermaid
-flowchart BT
+flowchart LR
   amzn(Amazon)   -- 2022-.... --> today((Today))
   fc(FinCompare) -- 2020-2022  --> amzn(Amazon)
   iyz(iyzico)    -- 2018-2020  --> fc(FinCompare)
   iven(IVEN)     -- 2016-2018  --> iyz(iyzico)  
+  bau(BAU)       -- 2013-2018  --> iven(IVEN)
 ```
