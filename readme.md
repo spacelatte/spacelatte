@@ -16,7 +16,8 @@
 
 ```mermaid
 flowchart LR
-  amzn(Amazon)   -- 2022-.... --> today((Today))
+  post(POST.lu)  -- 2026-....  --> today((Today))
+  amzn(Amazon)   -- 2022-2026  --> post(POST.lu)
   fc(FinCompare) -- 2020-2022  --> amzn(Amazon)
   iyz(iyzico)    -- 2018-2020  --> fc(FinCompare)
   iven(IVEN)     -- 2016-2018  --> iyz(iyzico)  
